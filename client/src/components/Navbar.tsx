@@ -11,7 +11,7 @@ export function Navbar() {
       <span className="navlinks">
         <NavLink to="/">Accueil </NavLink>|
         <NavLink to="/Galerie">Galerie </NavLink>|
-        <NavLink to="/Musées">Musées </NavLink>|
+        <NavLink to="/Musees">Musées </NavLink>|
         <NavLink to="Contact">Contact </NavLink>
       </span>
     </nav>
